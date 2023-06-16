@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Administrador_Tareas.props" />
+</Project>
