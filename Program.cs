@@ -1,12 +1,22 @@
 using Administrador_Tareas.Models;
 using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Mvc.Authorization;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
+// Autenticación global requerida
+var politicaUsuariosAutenticados = new AuthorizationPolicyBuilder()
+    .RequireAuthenticatedUser()
+    .Build();
+
 // Add services to the container.
-builder.Services.AddControllersWithViews();
+builder.Services.AddControllersWithViews(opciones => 
+{
+    opciones.Filters.Add(new AuthorizeFilter(politicaUsuariosAutenticados));
+});
 builder.Services.AddDbContext<ApplicationDbContext>(opciones => opciones.UseSqlServer("name=DefaultConnection"));
 builder.Services.AddAuthentication();
 builder.Services.AddIdentity<IdentityUser, IdentityRole>(opciones =>

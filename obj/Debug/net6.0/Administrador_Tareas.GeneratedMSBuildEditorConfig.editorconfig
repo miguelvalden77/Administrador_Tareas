@@ -9,41 +9,53 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Administrador_Tareas
 build_property.RootNamespace = Administrador_Tareas
-build_property.ProjectDir = c:\Users\migue\OneDrive\Escritorio\Programación\Proyectos\Administrador_Tareas\
+build_property.ProjectDir = C:\Users\migue\OneDrive\Escritorio\Programación\Proyectos\Administrador_Tareas\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\migue\OneDrive\Escritorio\Programación\Proyectos\Administrador_Tareas
+build_property.MSBuildProjectDirectory = C:\Users\migue\OneDrive\Escritorio\Programación\Proyectos\Administrador_Tareas
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/migue/OneDrive/Escritorio/Programación/Proyectos/Administrador_Tareas/Views/Home/Index.cshtml]
+[C:/Users/migue/OneDrive/Escritorio/Programación/Proyectos/Administrador_Tareas/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/migue/OneDrive/Escritorio/Programación/Proyectos/Administrador_Tareas/Views/Home/Privacy.cshtml]
+[C:/Users/migue/OneDrive/Escritorio/Programación/Proyectos/Administrador_Tareas/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/migue/OneDrive/Escritorio/Programación/Proyectos/Administrador_Tareas/Views/Shared/Error.cshtml]
+[C:/Users/migue/OneDrive/Escritorio/Programación/Proyectos/Administrador_Tareas/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/migue/OneDrive/Escritorio/Programación/Proyectos/Administrador_Tareas/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/migue/OneDrive/Escritorio/Programación/Proyectos/Administrador_Tareas/Views/Shared/_LinksLogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MaW5rc0xvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/migue/OneDrive/Escritorio/Programación/Proyectos/Administrador_Tareas/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/migue/OneDrive/Escritorio/Programación/Proyectos/Administrador_Tareas/Views/Usuarios/Registro.cshtml]
+[C:/Users/migue/OneDrive/Escritorio/Programación/Proyectos/Administrador_Tareas/Views/Usuarios/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/migue/OneDrive/Escritorio/Programación/Proyectos/Administrador_Tareas/Views/Usuarios/Registro.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcUmVnaXN0cm8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/migue/OneDrive/Escritorio/Programación/Proyectos/Administrador_Tareas/Views/_ViewImports.cshtml]
+[C:/Users/migue/OneDrive/Escritorio/Programación/Proyectos/Administrador_Tareas/Views/Usuarios/_layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcX2xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/migue/OneDrive/Escritorio/Programación/Proyectos/Administrador_Tareas/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/migue/OneDrive/Escritorio/Programación/Proyectos/Administrador_Tareas/Views/_ViewStart.cshtml]
+[C:/Users/migue/OneDrive/Escritorio/Programación/Proyectos/Administrador_Tareas/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/migue/OneDrive/Escritorio/Programación/Proyectos/Administrador_Tareas/Views/Shared/_Layout.cshtml]
+[C:/Users/migue/OneDrive/Escritorio/Programación/Proyectos/Administrador_Tareas/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-10xckrewer
